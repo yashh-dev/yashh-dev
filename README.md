@@ -22,7 +22,7 @@
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yash__krishna/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yashwan84676111">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCBt5dQwVAkiQk6nX7lLC4dQ?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
