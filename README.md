@@ -22,7 +22,7 @@
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCBt5dQwVAkiQk6nX7lLC4dQ?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/YashwanthKrishnaB/resume.pdf">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/main/resume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
