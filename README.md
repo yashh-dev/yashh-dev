@@ -7,10 +7,10 @@
     -   Soon will be available in my repository...
 - 🈶 I'm Learning Korean and brushing my Hindi
 
-<iframe src="https://giphy.com/embed/L0aWDywDu1ziw" width="480" height="293" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/friends-tv-show-joey-L0aWDywDu1ziw">via GIPHY</a></p>
-<img width=100px src="https://giphy.com/gifs/friends-tv-show-joey-L0aWDywDu1ziw">
+
+<img width=100px src="[https://giphy.com/gifs/friends-tv-show-joey-L0aWDywDu1ziw](https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif)">
 - Programming Languages good at
-<img src="[https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif](https://giphy.com/embed/L0aWDywDu1ziw)">
+<img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif">
    
 - 💬 Ask me about any Tech Happy to Help and Research about it.
 - 😄 Pronouns: ...
