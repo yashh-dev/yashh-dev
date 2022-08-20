@@ -8,7 +8,7 @@
 - 🈶 I'm Learning Korean and brushing my Hindi
 
 
-<img width=100px src="[https://giphy.com/gifs/friends-tv-show-joey-L0aWDywDu1ziw](https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif)">
+<img width=100px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
 - Programming Languages good at
 <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif">
    
