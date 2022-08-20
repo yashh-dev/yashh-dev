@@ -1,4 +1,5 @@
-### Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yashwanth Krishna 🧑
+### Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yashwanth Krishna 🧑  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yashwanthkrishnab/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
   
   <img width=20px src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif">I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
   
