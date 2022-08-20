@@ -1,11 +1,16 @@
 ### Hi there 👋, I'm Yashwanth Krishna 🧑
   
-  I'm a Tech Enthusiast interested in everything related to Tech
+  I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
   
-- 🔭 I’m currently working on Machine Learning Projects 
+- 🔭 I’m currently working on Machine Learning Projects and learning Data Science 📊
     -   Soon will be available in my repository...
-- 🌱 I’m currently learning Data Science 📊
-- 👯 I’m looking to collaborate on any project related to tech 💻 
+- 🈶 I'm Learning Korean and brushing my Hindi
+- Programming Languages good at
+  <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif">
+   
+- 💬 Ask me about any Tech Happy to Help and Research about it.
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 
    
    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -28,7 +33,3 @@
 
 </p>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
