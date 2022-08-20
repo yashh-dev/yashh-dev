@@ -3,13 +3,24 @@
   <img width=20px src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif">I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
   
   
-- 🔭 I’m currently working on Machine Learning Projects and learning Data Science 📊
+- 🔭 I’m currently working on `Machine Learning` Projects and learning `Data Science` 📊
     -   Soon will be available in my repository...
     
     
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
-- Programming Languages good at
+- Programming Languages and FrameWorks good at
+ - `Java`
+ - `Python`
+ - `JavaScript`
+ - `Flutter`
+ - `Html`
+ - `CSS`
+ - `NodeJs`
+ - `SQL`
+ - `MongoDB`
+ - `Firebase`
+  
 <!-- <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif"> -->
    
 - 💬 Ask me about any Tech Happy to Help and Research about it.
