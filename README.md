@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yashwanth Krishna 🧑
+### Hi there <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Yashwanth Krishna 🧑
   
   <img width=20px src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif">I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
   
