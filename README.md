@@ -10,16 +10,16 @@
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
 - Programming Languages and FrameWorks good at
- - `Java`
- - `Python`
- - `JavaScript`
- - `Flutter`
- - `Html`
- - `CSS`
- - `NodeJs`
- - `SQL`
- - `MongoDB`
- - `Firebase`
+	- `Java`
+ 	- `Python`
+ 	- `JavaScript`
+ 	- `Flutter`
+ 	- `Html`
+ 	- `CSS`
+ 	- `NodeJs`
+ 	- `SQL`
+ 	- `MongoDB`
+ 	- `Firebase`
   
 <!-- <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif"> -->
    
