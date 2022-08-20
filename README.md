@@ -8,16 +8,16 @@
     
     
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
- 
-- 🈶 I'm Learning Korean and brushing my Hindi
 
-<img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
 - Programming Languages good at
-<img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif">
+<!-- <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif"> -->
    
 - 💬 Ask me about any Tech Happy to Help and Research about it.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+ - 🈶 I'm Learning Korean and brushing my Hindi
+
+<img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
    
    <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
