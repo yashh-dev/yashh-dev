@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Yashwanth Krishna 🧑
   
-  I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
+  <img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif">I'm a Tech Enthusiast interested in everything related to Tech and Trying to be multilinigual
+  
   
 - 🔭 I’m currently working on Machine Learning Projects and learning Data Science 📊
     -   Soon will be available in my repository...
