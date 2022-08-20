@@ -6,7 +6,8 @@
 - 🔭 I’m currently working on Machine Learning Projects and learning Data Science 📊
     -   Soon will be available in my repository...
 - 🈶 I'm Learning Korean and brushing my Hindi
-  <img width=100px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
+
+<img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
 - Programming Languages good at
 <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif">
    
