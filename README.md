@@ -8,7 +8,7 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
     
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
-## Programming Languages and FrameWorks good at 
+- Programming Languages and FrameWorks good at 
 	-  `Java`
  	-  `Python`
  	-  `JavaScript`
