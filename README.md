@@ -23,9 +23,10 @@ I'm a Tech Enthusiast  interested in everything related to Tech and Trying to be
 <!-- <img src="https://media.giphy.com/media/3gII5EPW1zeplHDfbZ/giphy.gif"> -->
    
 - 💬 Ask me about any Tech Happy to Help and Research about it.
-- 😄 Pronouns: ...
+
+
 - ⚡ Fun fact: 
- - 🈶 I'm Learning Korean and brushing my Hindi
+ 	- 🈶 I'm Learning Korean and brushing my Hindi
 
 <img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
    
