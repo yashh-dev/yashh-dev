@@ -26,7 +26,7 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
 
 
 ## ⚡ Fun fact: 
- 	- 🈶 I'm Learning Korean and brushing my Hindi
+ 	- 🈶 I'm Learning Korean and brushing Hindi
 
 <img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
    
