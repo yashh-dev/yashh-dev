@@ -9,7 +9,6 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
 [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yashh-dev&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashh-dev)](https://github.com/anuraghazra/github-readme-stats)
 ### Programming Languages and FrameWorks good at 
 -  `Java`
 -  `Python`
