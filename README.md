@@ -8,8 +8,10 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
     
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
-### More About ME:
+
 [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yashh-dev&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+## <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50"> More About Me:
 ```javascript
 const YashwanthKrishnaB = {
     pronouns: "He" | "Him",
