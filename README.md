@@ -2,7 +2,7 @@
 I'm a Tech Enthusiast who is interested in everything related to Tech.
   
   
-- 🔭 I’m currently working on `Machine Learning` Projects and learning `Data Science` 📊
+- 🔭 I’m currently working on `Dev Ops` and `Machine Learning` Projects and learning `Data Science` 📊
     -   Soon will be available in my repository...
     
     
