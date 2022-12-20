@@ -9,6 +9,28 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
 <img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
 
 [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yashh-dev&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+const YashwanthKrishnaB = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java","Dart"],
+    askMeAbout: ["Artificial Intelligence", "Drone" "web dev", "tech", "app dev"],
+    technologies: {
+        mobileApp: ["Flutter","Android App"],
+        frontEnd: {
+            js: ["React"],
+            css: ["sass","bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask"]
+        },
+        devOps: ["Docker🐳", "Nginx"],
+        databases: ["mongo", "MySql", "FireStore"],
+        misc: ["Firebase", "sciPy" ,"tensorflow" , "PowerBI" , "Shell Scripting]
+    },
+    currentFocus: "Open Source Contributions",
+};
+
 ### Programming Languages and FrameWorks good at 
 -  `Java`
 -  `Python`
