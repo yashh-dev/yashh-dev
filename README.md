@@ -39,17 +39,20 @@ const YashwanthKrishnaB = {
    
 - 💬 Ask me about any Tech Happy to Help and Research about it.
 
-
+## Communities
+	- Team Lead of Campus Space Club
+	- Secretary of Robotcs Club
+	- 
 ## ⚡ Fun fact: 
  	- 🈶 I'm Learning Korean and brushing Hindi
 
 <img width=200px src="https://media.giphy.com/media/L0aWDywDu1ziw/giphy.gif">
    
-   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+## Connect with me 🤝
 
-<p align="center">
 
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+
+ <div class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yashwanthkrishnab/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/YashwanthKrishnaB">
@@ -64,5 +67,4 @@ const YashwanthKrishnaB = {
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
-</p>
 
