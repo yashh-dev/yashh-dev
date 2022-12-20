@@ -11,7 +11,7 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
 
 [![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yashh-dev&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="50"> More About Me:
+## <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"> More About Me:
 ```javascript
 const YashwanthKrishnaB = {
     pronouns: "He" | "Him",
