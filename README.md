@@ -6,10 +6,7 @@ I'm a Tech Enthusiast who is interested in everything related to Tech.
     -   Soon will be available in my repository...
     
     
-<img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">   
-
-
-[![Yashwanth's github stats](https://github-readme-stats.vercel.app/api?username=yashh-dev&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/YashwanthKrishnaB/YashwanthKrishnaB/blob/output/github-contribution-grid-snake.svg">
 
 ## <img src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="100"> More About Me:
 ```javascript
